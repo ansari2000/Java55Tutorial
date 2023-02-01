@@ -13,13 +13,4 @@ for(int i =10;i>=1;i--)
 
 }
 }
-     class Van{
-
-main(){
-
-sysout("Hi");
-
-}
-
-
-}
+     
